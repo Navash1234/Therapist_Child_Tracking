@@ -1,4 +1,4 @@
-# Person Detector and Tracker for Autism Spectrum Disorder (ASD) Analysis
+# Therapist and Child Detection and Tracking
 This project implements a person detection and tracking system to identify and monitor children with Autism Spectrum Disorder (ASD) and therapists in video footage. The solution assigns unique IDs to each detected person, tracks their movements throughout the video, handles re-entries, and manages occlusions to ensure continuous tracking.
 
 # Analyzing Model Predictions
